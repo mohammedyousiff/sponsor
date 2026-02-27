@@ -1,18 +1,20 @@
 {
-  "hama_st": {
+  "me": {
     "name": "محمد یوسف - گەشەپێدەر",
-    "image": "https://i0.wp.com/www.comicsonline.com/wp-content/uploads/2016/02/112263-e1460849605314.jpg?fit=1036%2C1080&ssl=1", 
+    "image": "https://i0.wp.com/www.comicsonline.com/wp-content/uploads/2016/02/112263-e1460849605314.jpg?fit=1036%2C1080&ssl=1",
+    "phone": "07763092161",
     "whatsapp": "https://wa.me/07517919130",
     "telegram": "https://t.me/h4ma_09",
-    "instagram": "https://instagram.com/h4ma_st",
-    "facebook": "https://facebook.com/mohammed.y.abdulqader"
+    "instagram": "https://instagram.com/h4ma_09",
+    "facebook": "https://facebook.com/mohammed.y.adbulqader"
   },
   "shkar_shutters": {
-    "name": "شکار - دەرابە",
+    "name": "شکار - دەرابەی کارەبایی",
     "image": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+    "phone": "07501111111",
     "whatsapp": "https://wa.me/07501111111",
     "telegram": "https://t.me/shkar_work",
-    "instagram": "", 
+    "instagram": "",
     "facebook": ""
   }
 }
