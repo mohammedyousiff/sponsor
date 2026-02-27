@@ -1,4 +1,17 @@
 {
-  "whatsapp": "https://wa.me/07517919130",
-  "telegram": "https://t.me/YourUsername"
+  "shkar_shutters": {
+    "name": "شکار - دەرابەی کارەبایی",
+    "whatsapp": "https://wa.me/07501111111",
+    "telegram": "https://t.me/shkar_work"
+  },
+  "fashion_store": {
+    "name": "فرۆشگای جلوبەرگ",
+    "whatsapp": "https://wa.me/07702222222",
+    "telegram": "https://t.me/kurd_fashion"
+  },
+  "car_dealer": {
+    "name": "پێشانگای ئۆتۆمبێل",
+    "whatsapp": "https://wa.me/07503333333",
+    "telegram": "https://t.me/auto_kurd"
+  }
 }
