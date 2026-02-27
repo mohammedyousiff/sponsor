@@ -1,27 +1,18 @@
 {
-  "shkar_shutters": {
-    "name": "شکار - دەرابەی کارەبایی",
-    "whatsapp": "https://wa.me/07501111111",
-    "telegram": "https://t.me/shkar_work"
-  },
-  "fashion_store": {
-    "name": "فرۆشگای جلوبەرگ",
-    "whatsapp": "https://wa.me/07702222222",
-    "telegram": "https://t.me/kurd_fashion"
-  },
-  "car_dealer": {
-    "name": "پێشانگای ئۆتۆمبێل",
-    "whatsapp": "https://wa.me/07503333333",
-    "telegram": "https://t.me/auto_kurd"
-  },
   "me": {
     "name": "محمد یوسف - گەشەپێدەر",
+    "image": "https://avatars.githubusercontent.com/u/12345678", 
     "whatsapp": "https://wa.me/07517919130",
-    "telegram": "https://t.me/h4ma_09"
+    "telegram": "https://t.me/h4ma_09",
+    "instagram": "https://instagram.com/h4ma_09",
+    "facebook": "https://facebook.com/h4ma.yousif"
   },
-  "lavan": {
-    "name": "لاڤان سەرهەد - ماتماتیک",
-    "whatsapp": "https://wa.me/07517919130",
-    "telegram": "https://t.me/h4ma_09"
+  "shkar_shutters": {
+    "name": "شکار - دەرابە",
+    "image": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+    "whatsapp": "https://wa.me/07501111111",
+    "telegram": "https://t.me/shkar_work",
+    "instagram": "", 
+    "facebook": ""
   }
 }
